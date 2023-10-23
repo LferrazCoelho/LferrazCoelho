@@ -1,4 +1,4 @@
-<img src="https://quotefancy.com/media/wallpaper/800x450/4674533-Urijah-Faber-Quote-Dream-big-stay-positive-work-hard-and-enjoy-the.jpg" alt="MarineGEO circle logo" style="height: 150px; width:100%; object-fit: cover;"/>
+<img src="https://quotefancy.com/media/wallpaper/800x450/4674533-Urijah-Faber-Quote-Dream-big-stay-positive-work-hard-and-enjoy-the.jpg" alt="MarineGEO circle logo" style="height: 300px; width:100%; object-fit: cover;"/>
 
 #### Seja bem vindo(a) ao meu Github 👋 eu sou o Luciano Ferraz, apaixonado por Soluções e Desenvolvimento Web 📱 🖥️
 
